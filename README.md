@@ -19,7 +19,8 @@ This project took insperation of [Lovable.dev](https://lovable.dev), built using
 
 ## 🖼️ Demo
 
-![demo](./public/demo.gif) 
+![{2D781BCA-D0E9-46E7-8150-8D99926A54C9}](https://github.com/user-attachments/assets/484f46a5-3d78-455d-9579-ccc9af586bae)
+
 
 ---
 
