@@ -27,7 +27,6 @@ This project took insperation of [Lovable.dev](https://lovable.dev), built using
 ## 🛠️ Tech Stack
 
 - **Frontend:** Next.js (App Router), Tailwind CSS, React Hook Form
-- **State Management:** Zustand
-- **Backend:** API routes using Node/Edge runtime
+- **Backend:** API routes using Node.jd
 - **AI Engine:** [Ollama](https://ollama.com/) + `deepseek-R1:7b`
 - **Local LLM Interface:** HTTP calls to `http://localhost:11434/api/generate`
