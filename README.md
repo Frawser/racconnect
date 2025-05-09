@@ -9,7 +9,7 @@ This project took insperation of [Lovable.dev](https://lovable.dev), built using
 ## 🚀 Features
 
 - 🧠 **Natural language to code** using DeepSeek (via Ollama)
-- ⚡ **Runs locally** — no external API keys or billing required
+- ⚡ **Runs locally** - no external API keys or billing required
 - 📦 **Next.js + TailwindCSS** frontend
 - 🧩 **Fullstack output**: React components, HTML, Express APIs
 - 💾 **Copy or download generated code**
